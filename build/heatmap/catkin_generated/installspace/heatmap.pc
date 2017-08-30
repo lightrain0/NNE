@@ -1,0 +1,8 @@
+prefix=/home/evan/share/coverage_path_ws/install
+
+Name: heatmap
+Description: Description of heatmap
+Version: 0.2.4
+Cflags: -I/home/evan/share/coverage_path_ws/install/include
+Libs: -L/home/evan/share/coverage_path_ws/install/lib 
+Requires: roscpp rospy std_msgs message_runtime costmap_2d

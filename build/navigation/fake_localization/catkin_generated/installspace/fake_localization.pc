@@ -1,0 +1,8 @@
+prefix=/home/evan/share/coverage_path_ws/install
+
+Name: fake_localization
+Description: Description of fake_localization
+Version: 1.12.13
+Cflags: 
+Libs: -L/home/evan/share/coverage_path_ws/install/lib 
+Requires: roscpp rospy

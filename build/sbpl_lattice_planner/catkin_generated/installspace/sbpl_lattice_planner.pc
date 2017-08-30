@@ -1,0 +1,8 @@
+prefix=/home/evan/share/coverage_path_ws/install
+
+Name: sbpl_lattice_planner
+Description: Description of sbpl_lattice_planner
+Version: 0.1.11
+Cflags: -I/home/evan/share/coverage_path_ws/install/include -I/opt/ros/indigo/include
+Libs: -L/home/evan/share/coverage_path_ws/install/lib -lsbpl_lattice_planner -l:/opt/ros/indigo/lib/libsbpl.so
+Requires: roscpp costmap_2d nav_core pluginlib geometry_msgs nav_msgs message_runtime

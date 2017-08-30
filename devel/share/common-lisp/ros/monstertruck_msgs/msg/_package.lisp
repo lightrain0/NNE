@@ -1,0 +1,31 @@
+(cl:defpackage monstertruck_msgs-msg
+  (:use )
+  (:export
+   "<SERVOCOMMAND>"
+   "SERVOCOMMAND"
+   "<RAWIMU>"
+   "RAWIMU"
+   "<SERVOPOSITIONS>"
+   "SERVOPOSITIONS"
+   "<GPS>"
+   "GPS"
+   "<NAVIGATIONSOLUTION>"
+   "NAVIGATIONSOLUTION"
+   "<MOTIONCOMMAND>"
+   "MOTIONCOMMAND"
+   "<SERVOCOMMANDS>"
+   "SERVOCOMMANDS"
+   "<POSITIONFEEDBACK>"
+   "POSITIONFEEDBACK"
+   "<RAWODOMETRY>"
+   "RAWODOMETRY"
+   "<STATUS>"
+   "STATUS"
+   "<PDOUT>"
+   "PDOUT"
+   "<SERVOPOSITION>"
+   "SERVOPOSITION"
+   "<COMPASS>"
+   "COMPASS"
+  ))
+

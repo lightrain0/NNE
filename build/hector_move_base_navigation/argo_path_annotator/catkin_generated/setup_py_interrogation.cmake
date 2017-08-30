@@ -1,0 +1,6 @@
+set(argo_path_annotator_SETUP_PY_VERSION "1.0.0")
+set(argo_path_annotator_SETUP_PY_SCRIPTS "")
+set(argo_path_annotator_SETUP_PY_PACKAGES "argo_path_annotator")
+set(argo_path_annotator_SETUP_PY_PACKAGE_DIRS "src/argo_path_annotator")
+set(argo_path_annotator_SETUP_PY_MODULES "")
+set(argo_path_annotator_SETUP_PY_MODULE_DIRS "")

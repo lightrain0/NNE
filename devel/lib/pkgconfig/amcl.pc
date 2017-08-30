@@ -1,0 +1,8 @@
+prefix=/home/evan/share/coverage_path_ws/devel
+
+Name: amcl
+Description: Description of amcl
+Version: 1.12.13
+Cflags: -I/home/evan/share/coverage_path_ws/devel/include -I/home/evan/share/coverage_path_ws/src/navigation/amcl/include
+Libs: -L/home/evan/share/coverage_path_ws/devel/lib -lamcl_sensors -lamcl_map -lamcl_pf
+Requires: rosbag roscpp dynamic_reconfigure tf

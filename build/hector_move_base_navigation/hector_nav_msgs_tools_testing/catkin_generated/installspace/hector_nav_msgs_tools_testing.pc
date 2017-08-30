@@ -1,0 +1,8 @@
+prefix=/home/evan/share/coverage_path_ws/install
+
+Name: hector_nav_msgs_tools_testing
+Description: Description of hector_nav_msgs_tools_testing
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/evan/share/coverage_path_ws/install/lib 
+Requires: hector_nav_msgs_tools geometry_msgs

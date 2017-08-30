@@ -1,0 +1,8 @@
+prefix=/home/evan/share/coverage_path_ws/install
+
+Name: inverse_trajectory_recovery
+Description: Description of inverse_trajectory_recovery
+Version: 0.1.0
+Cflags: 
+Libs: -L/home/evan/share/coverage_path_ws/install/lib 
+Requires: roscpp nav_core tf costmap_2d geometry_msgs base_local_planner pluginlib hector_nav_msgs hector_move_base_msgs

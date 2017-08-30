@@ -1,0 +1,8 @@
+prefix=/home/evan/share/coverage_path_ws/devel
+
+Name: evapc_start
+Description: Description of evapc_start
+Version: 0.0.6
+Cflags: 
+Libs: -L/home/evan/share/coverage_path_ws/devel/lib 
+Requires: 

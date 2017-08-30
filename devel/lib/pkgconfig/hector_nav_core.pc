@@ -1,0 +1,8 @@
+prefix=/home/evan/share/coverage_path_ws/devel
+
+Name: hector_nav_core
+Description: Description of hector_nav_core
+Version: 0.1.0
+Cflags: -I/home/evan/share/coverage_path_ws/src/hector_move_base_navigation/hector_nav_core/include
+Libs: -L/home/evan/share/coverage_path_ws/devel/lib 
+Requires: std_msgs actionlib_msgs geometry_msgs move_base_msgs hector_move_base_msgs costmap_2d

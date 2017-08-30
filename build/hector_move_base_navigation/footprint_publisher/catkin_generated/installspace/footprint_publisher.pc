@@ -1,0 +1,8 @@
+prefix=/home/evan/share/coverage_path_ws/install
+
+Name: footprint_publisher
+Description: Description of footprint_publisher
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/evan/share/coverage_path_ws/install/lib 
+Requires: 
